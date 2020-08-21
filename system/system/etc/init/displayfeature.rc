@@ -1,0 +1,4 @@
+service displayfeature /system/bin/displayfeature
+    class main
+    user root
+    group root system graphics capability

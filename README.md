@@ -1,0 +1,13 @@
+# olivewood-user 9 PKQ1.190319.001 V11.0.8.0.PCQINXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: olivewood
+- flavor: olivewood-user
+- release: 9
+- id: PKQ1.190319.001
+- incremental: V11.0.8.0.PCQINXM
+- tags: release-keys
+- fingerprint: Redmi/olivewood/olivewood:9/PKQ1.190319.001/V11.0.8.0.PCQINXM:user/release-keys
+- brand: Redmi
+- branch: olivewood-user-9-PKQ1.190319.001-V11.0.8.0.PCQINXM-release-keys
+- repo: redmi_olivewood_dump
