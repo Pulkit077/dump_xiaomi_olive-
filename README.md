@@ -1,0 +1,13 @@
+# olivelite-user 10 QKQ1.191014.001 V11.0.1.0.QCPMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: olivelite
+- flavor: olivelite-user
+- release: 10
+- id: QKQ1.191014.001
+- incremental: V11.0.1.0.QCPMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/olivelite/olivelite:10/QKQ1.191014.001/V11.0.1.0.QCPMIXM:user/release-keys
+- brand: Xiaomi
+- branch: olivelite-user-10-QKQ1.191014.001-V11.0.1.0.QCPMIXM-release-keys
+- repo: xiaomi_olivelite_dump
